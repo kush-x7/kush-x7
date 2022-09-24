@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, My name is Kushagra Tripathi </h1>
 
-<!--
-**kush-x7/kush-x7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">A passionate Frontend Developer from Lucknow India &#127470;&#127475</h3>
 
-Here are some ideas to get you started:
+<p align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/kushagra-x7/">
+			    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
+        </a>
+        
+      </div>
+
+</p>
