@@ -10,8 +10,6 @@ My strength is my ability to create accessible websites. I pride myself on my re
 
 📌 **I recommend looking through the pinned repositories which showcase my current skills.** 👇
 
-I spend my free time doing calisthenics. :wink:
-
 ## Technical Skills & Tools
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/html) - The building block of the web. No website can survive without this.
