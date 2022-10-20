@@ -1,5 +1,9 @@
 # Hi! I Make Accessible Websites with Modern Best Practices :wave:
 
+![banner](https://media.giphy.com/media/0I41l4ikhuOrjB4axK/giphy-downsized-large.gif)
+
+
+
 ## Tell Me a Little Bit About Yourself :sunglasses:
 
 I have been learning front-end web development for more than a year. I specialized in creating accessible websites. I also helped hundreds of people in the Frontend Mentor community by critically analyzing their code and giving them feedback.
