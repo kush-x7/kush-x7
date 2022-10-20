@@ -1,6 +1,6 @@
 # Hi! I Make Accessible Websites with Modern Best Practices :wave:
 
-![banner](kush-banner.jpg)
+![banner](kush-banner1.jpg)
 
 
 
