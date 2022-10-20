@@ -1,6 +1,6 @@
 # Hi! I Make Accessible Websites with Modern Best Practices :wave:
 
-![banner](https://media.giphy.com/media/0I41l4ikhuOrjB4axK/giphy-downsized-large.gif)
+![banner](kush-banner.jpg)
 
 
 
