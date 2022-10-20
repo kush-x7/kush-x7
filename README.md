@@ -8,7 +8,7 @@ I have been learning front-end web development for more than a year. I specializ
 
 My strength is my ability to create accessible websites. I pride myself on my reputation in the community by creating responsive and accessible websites. Not only that, every time I have done creating the website, I spare my time to write `README` to explain the process of how I created the website and the things which I learned while making the project.
 
-**I recommend looking through the pinned repositories which showcase my current skills.**
+📌 **I recommend looking through the pinned repositories which showcase my current skills.** 👇
 
 I spend my free time doing calisthenics. :wink:
 
