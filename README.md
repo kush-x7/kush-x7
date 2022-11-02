@@ -4,8 +4,7 @@
 
 ## Tell Me a Little Bit About Yourself :sunglasses:
 
-I have been learning front-end web development for more than a year. I specialized in creating accessible websites. I also helped hundreds of people in the Frontend Mentor community by critically analyzing their code and giving them feedback.
-
+I have been learning front-end web development for more than a year. I specialized in creating accessible websites. 
 My strength is my ability to create accessible websites. I pride myself on my reputation in the community by creating responsive and accessible websites. Not only that, every time I have done creating the website, I spare my time to write `README` to explain the process of how I created the website and the things which I learned while making the project.
 
 📌 **I recommend looking through the pinned repositories which showcase my current skills.** 👇
